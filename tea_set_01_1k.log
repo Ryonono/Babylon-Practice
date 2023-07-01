@@ -1,0 +1,264 @@
+Exporter version: 3.3.0, Blender version: 3.4.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  /Users/nonogakiryo/Desktop/Babylon sample/
+			WARNING: unsupported node type(ShaderNodeGroup) will trigger baking
+			WARNING: unsupported node type(ShaderNodeGamma) will trigger baking
+			WARNING: unsupported node type(ShaderNodeHueSaturation) will trigger baking
+			processing texture aerodynamics_workshop_4k
+				WARNING: Exception during copy:
+					[Errno 2] No such file or directory: 'E:/Projects/Comission/PolyHaven/Cloud/Poly Haven Assets/HDRIs/exr/4k/aerodynamics_workshop_4k.exr'
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of mesh:  tea_set_01_plate_large_square_01
+		processing begun of material:  tea_set_01
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture tea_set_01_nor_gl_1k
+			processing texture tea_set_01_diff_1k
+			processing texture tea_set_01_metal_1k
+			processing texture tea_set_01_rough_1k
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture tea_set_01_plate_large_square_01_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			bake time:  0 min, 1.7579 secs
+		num positions      :  1730
+		num normals        :  1730
+		num tangents       :  0
+		num uvs            :  3460
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  3168
+	processing begun of mesh:  tea_set_01_cup_small_01
+		processing begun of material:  tea_set_01
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture tea_set_01_nor_gl_1k
+			processing texture tea_set_01_diff_1k
+			processing texture tea_set_01_metal_1k
+			processing texture tea_set_01_rough_1k
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture tea_set_01_cup_small_01_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			bake time:  0 min, 1.0728 secs
+		num positions      :  2793
+		num normals        :  2793
+		num tangents       :  0
+		num uvs            :  5586
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4156
+	processing begun of mesh:  tea_set_01_saucer_circular_03
+		processing begun of material:  tea_set_01
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture tea_set_01_nor_gl_1k
+			processing texture tea_set_01_diff_1k
+			processing texture tea_set_01_metal_1k
+			processing texture tea_set_01_rough_1k
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture tea_set_01_saucer_circular_03_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			bake time:  0 min, 1.2121 secs
+		num positions      :  1586
+		num normals        :  1586
+		num tangents       :  0
+		num uvs            :  3172
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2880
+	processing begun of mesh:  tea_set_01_plate_large_circular_03
+		processing begun of material:  tea_set_01
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture tea_set_01_nor_gl_1k
+			processing texture tea_set_01_diff_1k
+			processing texture tea_set_01_metal_1k
+			processing texture tea_set_01_rough_1k
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture tea_set_01_plate_large_circular_03_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			bake time:  0 min, 1.5532 secs
+		num positions      :  1730
+		num normals        :  1730
+		num tangents       :  0
+		num uvs            :  3460
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  3168
+	processing begun of mesh:  tea_set_01_sugar_cup_01
+		processing begun of material:  tea_set_01
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture tea_set_01_nor_gl_1k
+			processing texture tea_set_01_diff_1k
+			processing texture tea_set_01_metal_1k
+			processing texture tea_set_01_rough_1k
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture tea_set_01_sugar_cup_01_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			bake time:  0 min, 1.0767 secs
+		num positions      :  3502
+		num normals        :  3502
+		num tangents       :  0
+		num uvs            :  7004
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  5184
+	processing begun of mesh:  tea_set_01_teapot_01
+		processing begun of material:  tea_set_01
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture tea_set_01_nor_gl_1k
+			processing texture tea_set_01_diff_1k
+			processing texture tea_set_01_metal_1k
+			processing texture tea_set_01_rough_1k
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture tea_set_01_teapot_01_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			bake time:  0 min, 3.1384 secs
+		num positions      :  5596
+		num normals        :  5596
+		num tangents       :  0
+		num uvs            :  11192
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  8432
+	processing begun of mesh:  tea_set_01_cup_small_02
+		processing begun of material:  tea_set_01
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture tea_set_01_nor_gl_1k
+			processing texture tea_set_01_diff_1k
+			processing texture tea_set_01_metal_1k
+			processing texture tea_set_01_rough_1k
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture tea_set_01_cup_small_02_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			bake time:  0 min, 1.053 secs
+		num positions      :  2793
+		num normals        :  2793
+		num tangents       :  0
+		num uvs            :  5586
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  4156
+	processing begun of mesh:  tea_set_01_saucer_circular_04
+		processing begun of material:  tea_set_01
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture tea_set_01_nor_gl_1k
+			processing texture tea_set_01_diff_1k
+			processing texture tea_set_01_metal_1k
+			processing texture tea_set_01_rough_1k
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture tea_set_01_saucer_circular_04_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			bake time:  0 min, 1.2218 secs
+		num positions      :  1586
+		num normals        :  1586
+		num tangents       :  0
+		num uvs            :  3172
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2880
+	processing begun of mesh:  tea_set_01_sugar_cup_01_lid
+		processing begun of material:  tea_set_01
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture tea_set_01_nor_gl_1k
+			processing texture tea_set_01_diff_1k
+			processing texture tea_set_01_metal_1k
+			processing texture tea_set_01_rough_1k
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture tea_set_01_sugar_cup_01_lid_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			bake time:  0 min, 0.9081 secs
+		num positions      :  1586
+		num normals        :  1586
+		num tangents       :  0
+		num uvs            :  3172
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2560
+	processing begun of mesh:  tea_set_01_teapot_01_lid
+		processing begun of material:  tea_set_01
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: unsupported node type(NodeReroute) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			processing texture tea_set_01_nor_gl_1k
+			processing texture tea_set_01_diff_1k
+			processing texture tea_set_01_metal_1k
+			processing texture tea_set_01_rough_1k
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture tea_set_01_teapot_01_lid_baked_DIFFUSE
+			Diffuse / albeto channel baked
+			bake time:  0 min, 1.0955 secs
+		num positions      :  2167
+		num normals        :  2167
+		num tangents       :  0
+		num uvs            :  4334
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  3712
+========= Writing of JSON file started =========
+	writing mesh:  tea_set_01_plate_large_square_01
+	writing mesh:  tea_set_01_cup_small_01
+	writing mesh:  tea_set_01_saucer_circular_03
+	writing mesh:  tea_set_01_plate_large_circular_03
+	writing mesh:  tea_set_01_sugar_cup_01
+	writing mesh:  tea_set_01_teapot_01
+	writing mesh:  tea_set_01_cup_small_02
+	writing mesh:  tea_set_01_saucer_circular_04
+	writing mesh:  tea_set_01_sugar_cup_01_lid
+	writing mesh:  tea_set_01_teapot_01_lid
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 15.7027 secs
